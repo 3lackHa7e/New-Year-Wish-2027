@@ -91,5 +91,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-Made with ❤️ by <a href="[https://github.com/3lackHa7e](https://github.com/3lackHa7e)">3lackHa7e</a> for a wonderful 2027!
+Made with ❤️ by <a href="[https://github.com/3lackHa7e](https://github.com/3lackHa7e)">Abid</a> for a wonderful 2027!
 </p>
