@@ -1,14 +1,7 @@
-Here is a professional and fun `README.md` for your GitHub repository. I've customized it based on the screenshot you provided and your code structure.
-
-You can copy and paste this directly into your `README.md` file.
-
----
-
 # ✨ New Year Wish 2027
 
 A beautiful, interactive web application designed to count down the moments to **2027** while spreading joy with randomized, heartwarming New Year wishes.
 
-*(Note: Upload your screenshot to your repo and update this path if necessary!)*
 
 ## 🌟 Features
 
@@ -98,5 +91,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-Made with ❤️ by <a href="[https://github.com/3lackHa7e](https://www.google.com/search?q=https://github.com/3lackHa7e)">3lackHa7e</a> for a wonderful 2027!
+Made with ❤️ by <a href="[https://github.com/3lackHa7e](https://github.com/3lackHa7e)">3lackHa7e</a> for a wonderful 2027!
 </p>
